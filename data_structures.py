@@ -2,18 +2,6 @@
 # VERİ YAPILARI (DATA STRUCTURES)
 ###############################################
 # - Veri Yapılarına Giriş ve Hızlı Özet
-# - Sayılar (Numbers): int, float, complex
-# - Karakter Dizileri (Strings): str
-# - Boolean (TRUE-FALSE): bool
-# - Liste (List)
-# - Sözlük (Dictionary)
-# - Demet (Tuple)
-# - Set
-
-
-###############################################
-# Veri Yapılarına Giriş ve Hızlı Özet
-##############################################
 
 x = 46
 type(x)
@@ -27,9 +15,24 @@ type(z)
 d = "hello ai era"
 type(d)
 
-type(5==4)
+type(5 == 4)
 
+# list
 
-#liste
+x = ["xyz", "abc", "dfg"]
+type(x)
 
+# dictionary
 
+d = {"Name": "Peter", "Age": 36}
+type(d)
+
+# tuple
+
+z = ("x", "y", "z")
+type(z)
+
+# set
+
+d = {"python", "ml"}
+type(d)
