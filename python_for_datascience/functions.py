@@ -129,4 +129,4 @@ def all_calculation(varm, moisture, charge, p):
     print(b * 10)
 
 
-all_calculation(1, 7, 5, 12)
+all_calculation(1, 8, 5, 12)
